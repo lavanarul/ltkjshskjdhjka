@@ -1,0 +1,42 @@
+{
+  "Amazon": {
+    "logo": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonPop-Up/LandingPage/Mini_Banner_Logos_Amazon._CB492117908_.png",
+    "Details": [
+      {
+        "Categories":"Fashion",
+        "Offer details": "The Gadget Sale: Upto 50% Off on Gadgets and Electronics + 5% Cashback on SBI Credit Card EMIs",
+        "Offer link":"https://www.amazon.in/b?node=14366356031&tag=coupo07-21&ascsubtag=CG33c80e1e5bacb3"
+      },
+      {
+        "Categories":"Fashion",
+        "Offer details": "The Gadget Sale: Upto 50% Off on Gadgets and Electronics + 5% Cashback on SBI Credit Card EMIs",
+        "Offer link":"https://www.amazon.in/b?node=14366356031&tag=coupo07-21&ascsubtag=CG33c80e1e5bacb3"
+      },
+      {
+        "Categories":"Fashion",
+        "Offer details": "The Gadget Sale: Upto 50% Off on Gadgets and Electronics + 5% Cashback on SBI Credit Card EMIs",
+        "Offer link":"https://www.amazon.in/b?node=14366356031&tag=coupo07-21&ascsubtag=CG33c80e1e5bacb3"
+      }
+    ]
+  },
+  "Flipkart": {
+    "logo": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonPop-Up/LandingPage/Mini_Banner_Logos_Amazon._CB492117908_.png",
+    "Details": [
+      {
+        "Categories":"Fashion",
+        "Offer details": "The Gadget Sale: Upto 50% Off on Gadgets and Electronics + 5% Cashback on SBI Credit Card EMIs",
+        "Offer link":"https://www.amazon.in/b?node=14366356031&tag=coupo07-21&ascsubtag=CG33c80e1e5bacb3"
+      },
+      {
+        "Categories":"Fashion",
+        "Offer details": "The Gadget Sale: Upto 50% Off on Gadgets and Electronics + 5% Cashback on SBI Credit Card EMIs",
+        "Offer link":"https://www.amazon.in/b?node=14366356031&tag=coupo07-21&ascsubtag=CG33c80e1e5bacb3"
+      },
+      {
+        "Categories":"Fashion",
+        "Offer details": "The Gadget Sale: Upto 50% Off on Gadgets and Electronics + 5% Cashback on SBI Credit Card EMIs",
+        "Offer link":"https://www.amazon.in/b?node=14366356031&tag=coupo07-21&ascsubtag=CG33c80e1e5bacb3"
+      }
+    ]
+  }
+}
